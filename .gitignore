@@ -9,3 +9,4 @@ src/main/test2.ts
 .vscode/tasks.json
 package-lock.json
 
+.vercel
